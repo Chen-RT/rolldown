@@ -467,8 +467,8 @@ __metadata:
   linkType: hard
 
 "@codemirror/autocomplete@npm:^6.0.0":
-  version: 6.13.0
-  resolution: "@codemirror/autocomplete@npm:6.13.0"
+  version: 6.14.0
+  resolution: "@codemirror/autocomplete@npm:6.14.0"
   dependencies:
     "@codemirror/language": "npm:^6.0.0"
     "@codemirror/state": "npm:^6.0.0"
@@ -479,7 +479,7 @@ __metadata:
     "@codemirror/state": ^6.0.0
     "@codemirror/view": ^6.0.0
     "@lezer/common": ^1.0.0
-  checksum: 10/8a2364bd32028748cb274d19eee6211fae06658b7865f8c843b4758000702c3192d40630deeba7378aeeffc3f46bf2000d388ee24150e61c3d9dc8176b8060ae
+  checksum: 10/203ed79336ad3594f86c59814b280f870af2209c48218f458e463623d0e3b8a50ee7829ea33fcbaa106126d484466e846278ac34ee42c87ac03cb02c4b6a71fd
   languageName: node
   linkType: hard
 
@@ -4800,7 +4800,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"define-data-property@npm:^1.0.1, define-data-property@npm:^1.1.2, define-data-property@npm:^1.1.4":
+"define-data-property@npm:^1.0.1, define-data-property@npm:^1.1.4":
   version: 1.1.4
   resolution: "define-data-property@npm:1.1.4"
   dependencies:
@@ -5903,7 +5903,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"get-intrinsic@npm:^1.1.3, get-intrinsic@npm:^1.2.1, get-intrinsic@npm:^1.2.2, get-intrinsic@npm:^1.2.3, get-intrinsic@npm:^1.2.4":
+"get-intrinsic@npm:^1.1.3, get-intrinsic@npm:^1.2.1, get-intrinsic@npm:^1.2.3, get-intrinsic@npm:^1.2.4":
   version: 1.2.4
   resolution: "get-intrinsic@npm:1.2.4"
   dependencies:
@@ -6246,7 +6246,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"has-property-descriptors@npm:^1.0.0, has-property-descriptors@npm:^1.0.1, has-property-descriptors@npm:^1.0.2":
+"has-property-descriptors@npm:^1.0.0, has-property-descriptors@npm:^1.0.2":
   version: 1.0.2
   resolution: "has-property-descriptors@npm:1.0.2"
   dependencies:
@@ -6286,11 +6286,11 @@ __metadata:
   linkType: hard
 
 "hasown@npm:^2.0.0, hasown@npm:^2.0.1":
-  version: 2.0.1
-  resolution: "hasown@npm:2.0.1"
+  version: 2.0.2
+  resolution: "hasown@npm:2.0.2"
   dependencies:
     function-bind: "npm:^1.1.2"
-  checksum: 10/b7f9107387ee68abed88e965c2b99e868b5e0e9d289db1ddd080706ffafb69533b4f538b0e6362585bae8d6cbd080249f65e79702f74c225990f66d6106be3f6
+  checksum: 10/7898a9c1788b2862cf0f9c345a6bec77ba4a0c0983c7f19d610c382343d4f98fa260686b225dfb1f88393a66679d2ec58ee310c1d6868c081eda7918f32cc70a
   languageName: node
   linkType: hard
 
@@ -10526,14 +10526,14 @@ __metadata:
   linkType: hard
 
 "safe-array-concat@npm:^1.1.0":
-  version: 1.1.0
-  resolution: "safe-array-concat@npm:1.1.0"
+  version: 1.1.2
+  resolution: "safe-array-concat@npm:1.1.2"
   dependencies:
-    call-bind: "npm:^1.0.5"
-    get-intrinsic: "npm:^1.2.2"
+    call-bind: "npm:^1.0.7"
+    get-intrinsic: "npm:^1.2.4"
     has-symbols: "npm:^1.0.3"
     isarray: "npm:^2.0.5"
-  checksum: 10/41ac35ce46c44e2e8637b1805b0697d5269507779e3082b7afb92c01605fd73ab813bbc799510c56e300cfc941b1447fd98a338205db52db7fd1322ab32d7c9f
+  checksum: 10/a54f8040d7cb696a1ee38d19cc71ab3cfb654b9b81bae00c6459618cfad8214ece7e6666592f9c925aafef43d0a20c5e6fbb3413a2b618e1ce9d516a2e6dcfc5
   languageName: node
   linkType: hard
 
@@ -10659,16 +10659,16 @@ __metadata:
   linkType: hard
 
 "set-function-length@npm:^1.2.1":
-  version: 1.2.1
-  resolution: "set-function-length@npm:1.2.1"
+  version: 1.2.2
+  resolution: "set-function-length@npm:1.2.2"
   dependencies:
-    define-data-property: "npm:^1.1.2"
+    define-data-property: "npm:^1.1.4"
     es-errors: "npm:^1.3.0"
     function-bind: "npm:^1.1.2"
-    get-intrinsic: "npm:^1.2.3"
+    get-intrinsic: "npm:^1.2.4"
     gopd: "npm:^1.0.1"
-    has-property-descriptors: "npm:^1.0.1"
-  checksum: 10/9ab1d200149574ab27c1a7acae56d6235e02568fc68655fe8afe63e4e02ccad3c27665f55c32408bd1ff40705939dbb7539abfb9c3a07fda27ecad1ab9e449f5
+    has-property-descriptors: "npm:^1.0.2"
+  checksum: 10/505d62b8e088468917ca4e3f8f39d0e29f9a563b97dbebf92f4bd2c3172ccfb3c5b8e4566d5fcd00784a00433900e7cb8fbc404e2dbd8c3818ba05bb9d4a8a6d
   languageName: node
   linkType: hard
 
